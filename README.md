@@ -1,4 +1,4 @@
-# Toyota Profits, Imports Pull Ahead, Tariffs Just Around the Corner
+# [Toyota Profits, Imports Pull Ahead, Tariffs Just Around the Corner](https://panjiva.com/research/toyota-profits-imports-pull-ahead-tariffs-just-around-the-corner/28476)
 
 The above charts were created on Aug. 6, 2019 using the following query: At a simple level, the query uses a base U.S. import search, selecting the time, origin, bill of lading for shipment count, volume and HS code. A cross apply is used to deaggregate the HS codes, relying on the union to clear any duplicates. Three more years of Panjiva data are added using the same query, and then used as a subquery. 
 
